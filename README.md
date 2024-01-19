@@ -42,11 +42,11 @@ QuickVid Summarizer is an innovative web application designed to streamline the 
 
 To set up QuickVid Summarizer on your local machine:
 
-1. Clone the repository: git clone https://github.com/RameshJajula/GenAI_Youtube.git
+1. Clone the repository:  ``` git clone https://github.com/RameshJajula/GenAI_Youtube.git  ```
 
-2. Navigate to the project directory: cd GenAI_Youtube
+2. Navigate to the project directory:  ``` cd GenAI_Youtube  ```
 
-3. Install the required dependencies: pip install -r requirements.txt
+3. Install the required dependencies:  ``` pip install -r requirements.txt  ```
 
 
 ## Usage
